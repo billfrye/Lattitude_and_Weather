@@ -1,0 +1,70 @@
+
+.navbar-brand {
+    background-color:   rgb(12, 107, 75);
+    color:  white !important;
+    width: 100px;
+    text-align: center;
+}
+
+.container-summary {
+    margin: 20px;
+    border: 15px;
+    padding: 0px important!;
+    background-color: #e7e3e3;
+}
+
+.green-text {
+    color: rgb(12, 107, 75);
+}
+
+.bg-gray {
+    background-color: #e7e3e3;
+}
+
+.visualizations img { 
+     width: 50%;
+}
+
+selected {
+    border-width: 2px ! important;
+    border-color: red ! important;
+}
+
+.comparisons {
+    width: 85%;
+    border-left-width: 15px;
+    background-color: #e7e3e3;
+}
+
+.data-div {
+    text-align: center ! important;
+}
+
+.footer {
+    border-bottom-color: #454545;
+    border-bottom-width: 20px;
+    border-top-color: rgb(12, 107, 75);
+}
+
+right-selected {
+    border-color: red;
+    border-width: 3 px;
+}
+
+left-selected {
+    border-color: red;
+    border-width: 3 px;
+}
+
+
+left-unselected {
+    align-content: left;
+    border-color: #e7e3e3;
+    border-width: 3px;
+}
+
+right-unselected {
+    align-content: left;
+    border-color: #e7e3e3;
+    border-width: 3px;
+}

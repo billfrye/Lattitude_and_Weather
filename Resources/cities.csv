@@ -1,0 +1,733 @@
+Preparing to process the list of cities
+All API calls will be made to end point:
+	 http://api.openweathermap.org/data/2.5/weather?units=Imperial,City: ushuaia id: 3833367 processed. # 1 
+City: carauari id: 3664659 processed. # 2 
+City: christchurch id: 2192362 processed. # 3 
+City: yellowknife id: 6185377 processed. # 4 
+City: hambantota id: 1244926 processed. # 5 
+City: mataura id: 6201424 processed. # 6 
+City: puerto ayora id: 3652764 processed. # 7 
+City: jamestown id: 2069194 processed. # 8 
+City: severo-kurilsk id: 2121385 processed. # 9 
+City: edson id: 5946820 processed. # 10 
+Error code: 404 on call for city: belushya guba
+Message: city not found
+City: lac-megantic id: 6032673 processed. # 11 
+City: saint-philippe id: 6138908 processed. # 12 
+City: nikolskoye id: 546105 processed. # 13 
+City: zhanakorgan id: 1517323 processed. # 14 
+City: albany id: 5106834 processed. # 15 
+City: esperance id: 3573739 processed. # 16 
+City: zlobin id: 3191648 processed. # 17 
+City: souillac id: 3026644 processed. # 18 
+City: biak id: 1637001 processed. # 19 
+City: bluff id: 2175403 processed. # 20 
+Error code: 404 on call for city: illoqqortoormiut
+Message: city not found
+Error code: 404 on call for city: barentsburg
+Message: city not found
+City: kapaa id: 5848280 processed. # 21 
+City: new norfolk id: 2155415 processed. # 22 
+City: tuktoyaktuk id: 6170031 processed. # 23 
+City: tasiilaq id: 3424607 processed. # 24 
+City: walvis bay id: 3359638 processed. # 25 
+City: tamiahua id: 3516376 processed. # 26 
+City: bartica id: 3379507 processed. # 27 
+City: kalianget id: 1621395 processed. # 28 
+City: gaspe id: 5959878 processed. # 29 
+City: khatanga id: 2022572 processed. # 30 
+City: arraial do cabo id: 3471451 processed. # 31 
+City: nouadhibou id: 2377457 processed. # 32 
+City: ribeira grande id: 3372707 processed. # 33 
+City: provideniya id: 4031574 processed. # 34 
+City: inongo id: 2315417 processed. # 35 
+City: isangel id: 2136825 processed. # 36 
+City: rikitea id: 4030556 processed. # 37 
+City: norman wells id: 6089245 processed. # 38 
+City: guanica id: 4565090 processed. # 39 
+City: katsuura id: 1865309 processed. # 40 
+City: san patricio id: 3437029 processed. # 41 
+City: bambous virieux id: 1106677 processed. # 42 
+City: dikson id: 1507390 processed. # 43 
+City: marsh harbour id: 3571913 processed. # 44 
+City: east london id: 1006984 processed. # 45 
+City: atuona id: 4020109 processed. # 46 
+City: chuy id: 3443061 processed. # 47 
+City: maceio id: 3395981 processed. # 48 
+City: hobart id: 2163355 processed. # 49 
+City: huejuquilla el alto id: 4004616 processed. # 50 
+City: margate id: 2158744 processed. # 51 
+Error code: 404 on call for city: taolanaro
+Message: city not found
+City: yerbogachen id: 2012956 processed. # 52 
+City: maningrida id: 2067089 processed. # 53 
+City: rach gia id: 1568510 processed. # 54 
+City: hailar id: 2037078 processed. # 55 
+City: lorengau id: 2092164 processed. # 56 
+City: hilo id: 5855927 processed. # 57 
+City: cape town id: 3369157 processed. # 58 
+City: hasaki id: 2112802 processed. # 59 
+City: port alfred id: 964432 processed. # 60 
+City: touros id: 3386213 processed. # 61 
+City: thompson id: 6165406 processed. # 62 
+City: ponta do sol id: 3453439 processed. # 63 
+City: linxia id: 1803331 processed. # 64 
+City: at-bashi id: 1528796 processed. # 65 
+City: cidreira id: 3466165 processed. # 66 
+City: laguna id: 4013704 processed. # 67 
+City: avarua id: 4035715 processed. # 68 
+City: kiunga id: 2093846 processed. # 69 
+City: manohar thana id: 1263648 processed. # 70 
+City: nelson bay id: 2155562 processed. # 71 
+City: jiuquan id: 1280957 processed. # 72 
+Error code: 404 on call for city: tuggurt
+Message: city not found
+City: georgetown id: 3378644 processed. # 73 
+City: port-gentil id: 2396518 processed. # 74 
+City: dingle id: 1714733 processed. # 75 
+City: kruisfontein id: 986717 processed. # 76 
+City: praia da vitoria id: 3372760 processed. # 77 
+City: geraldton id: 5960603 processed. # 78 
+City: palmer id: 5871146 processed. # 79 
+Error code: 404 on call for city: palabuhanratu
+Message: city not found
+City: nizhniy odes id: 520552 processed. # 80 
+City: punta arenas id: 3874787 processed. # 81 
+City: hamilton id: 3573197 processed. # 82 
+Error code: 404 on call for city: tahta
+Message: city not found
+City: cantagallo id: 3687541 processed. # 83 
+City: ouallam id: 2440371 processed. # 84 
+Error code: 404 on call for city: ambodifototra
+Message: city not found
+City: san matias id: 3601874 processed. # 85 
+City: barrow id: 3833859 processed. # 86 
+City: airai id: 1651810 processed. # 87 
+Error code: 404 on call for city: galgani
+Message: city not found
+City: mehamn id: 778707 processed. # 88 
+City: portland id: 5746545 processed. # 89 
+City: kjollefjord id: 779261 processed. # 90 
+City: carnarvon id: 1014034 processed. # 91 
+City: hermanus id: 3366880 processed. # 92 
+City: chegdomyn id: 2025579 processed. # 93 
+City: bandarbeyla id: 64814 processed. # 94 
+City: tezu id: 1254709 processed. # 95 
+City: pangnirtung id: 6096551 processed. # 96 
+City: bethel id: 5880568 processed. # 97 
+Error code: 404 on call for city: umzimvubu
+Message: city not found
+City: cayenne id: 3382160 processed. # 98 
+City: plainview id: 5528450 processed. # 99 
+Error code: 404 on call for city: nizhneyansk
+Message: city not found
+City: the pas id: 6164499 processed. # 100 
+City: sabha id: 2212775 processed. # 101 
+City: zhigansk id: 2012530 processed. # 102 
+City: athens id: 4830668 processed. # 103 
+City: buraydah id: 107304 processed. # 104 
+City: nan id: 1608452 processed. # 105 
+City: bredasdorp id: 1015776 processed. # 106 
+City: lompoc id: 5367788 processed. # 107 
+City: sieradz id: 3085978 processed. # 108 
+City: semey id: 1519422 processed. # 109 
+City: vestmanna id: 2610343 processed. # 110 
+City: fortuna id: 2517679 processed. # 111 
+City: paita id: 3694112 processed. # 112 
+City: shenjiamen id: 1795632 processed. # 113 
+City: chute-aux-outardes id: 5922281 processed. # 114 
+City: uhersky ostroh id: 3063735 processed. # 115 
+City: qaanaaq id: 3831208 processed. # 116 
+City: victoria id: 1733782 processed. # 117 
+Error code: 404 on call for city: porto santo
+Message: city not found
+City: high level id: 5975004 processed. # 118 
+City: pervomayskoye id: 1495256 processed. # 119 
+City: kapit id: 1737185 processed. # 120 
+City: sao filipe id: 3374210 processed. # 121 
+City: paratinga id: 3455029 processed. # 122 
+City: znamenka id: 462357 processed. # 123 
+City: sobolevo id: 525426 processed. # 124 
+Error code: 404 on call for city: meyungs
+Message: city not found
+City: tiznit id: 2527089 processed. # 125 
+City: kendari id: 1640344 processed. # 126 
+City: vaini id: 1273574 processed. # 127 
+City: fomboni id: 921889 processed. # 128 
+City: mizdah id: 2214827 processed. # 129 
+City: teguise id: 2510573 processed. # 130 
+City: grande prairie id: 5964347 processed. # 131 
+City: arlit id: 2447513 processed. # 132 
+City: paramonga id: 3933024 processed. # 133 
+City: busselton id: 2075265 processed. # 134 
+City: kavieng id: 2094342 processed. # 135 
+Error code: 404 on call for city: malwan
+Message: city not found
+City: fort nelson id: 5955902 processed. # 136 
+City: loukhi id: 533964 processed. # 137 
+City: muros id: 3115824 processed. # 138 
+City: talgram id: 1255127 processed. # 139 
+City: grindavik id: 3416888 processed. # 140 
+City: port elizabeth id: 4501427 processed. # 141 
+City: codrington id: 2160063 processed. # 142 
+Error code: 404 on call for city: felidhoo
+Message: city not found
+City: kuusamo id: 649924 processed. # 143 
+Error code: 404 on call for city: jujuy
+Message: city not found
+City: san quintin id: 1688687 processed. # 144 
+City: foumban id: 2231506 processed. # 145 
+Error code: 404 on call for city: jarjis
+Message: city not found
+Error code: 404 on call for city: toftir
+Message: city not found
+City: anadyr id: 2127202 processed. # 146 
+City: alenquer id: 3407980 processed. # 147 
+City: murgab id: 1218612 processed. # 148 
+City: okhotsk id: 2122605 processed. # 149 
+City: batticaloa id: 1250161 processed. # 150 
+City: bergerac id: 3033391 processed. # 151 
+City: chanthaburi id: 1611269 processed. # 152 
+City: cairns id: 2172797 processed. # 153 
+City: kaitangata id: 2208248 processed. # 154 
+City: kodiak id: 4407665 processed. # 155 
+Error code: 404 on call for city: mys shmidta
+Message: city not found
+City: mahebourg id: 934322 processed. # 156 
+City: cherskiy id: 2126199 processed. # 157 
+City: la baule-escoublac id: 3019766 processed. # 158 
+City: nantucket id: 4944903 processed. # 159 
+City: lingao id: 1803560 processed. # 160 
+City: kiama id: 2161515 processed. # 161 
+City: xunchang id: 1787901 processed. # 162 
+City: rawson id: 3839307 processed. # 163 
+City: lebu id: 344979 processed. # 164 
+Error code: 404 on call for city: camana
+Message: city not found
+Error code: 404 on call for city: yanan
+Message: city not found
+City: igarka id: 1505991 processed. # 165 
+City: greenfield id: 4938378 processed. # 166 
+City: ladario id: 2732265 processed. # 167 
+City: sioux lookout id: 6148373 processed. # 168 
+City: genhe id: 2037252 processed. # 169 
+City: mar del plata id: 3863379 processed. # 170 
+City: saskylakh id: 2017155 processed. # 171 
+Error code: 404 on call for city: attawapiskat
+Message: city not found
+City: tuatapere id: 2180815 processed. # 172 
+City: torbay id: 6167817 processed. # 173 
+City: kota belud id: 1736660 processed. # 174 
+City: gubkinskiy id: 1539209 processed. # 175 
+City: bonavista id: 5905393 processed. # 176 
+City: quchan id: 119115 processed. # 177 
+City: yayva id: 468560 processed. # 178 
+City: bar harbor id: 4957320 processed. # 179 
+City: yabrud id: 162627 processed. # 180 
+City: sorland id: 3137469 processed. # 181 
+City: sola id: 643453 processed. # 182 
+City: sibolga id: 1213855 processed. # 183 
+City: constitucion id: 4011743 processed. # 184 
+City: clyde river id: 5924351 processed. # 185 
+City: port hardy id: 6111862 processed. # 186 
+City: xingyi id: 1787599 processed. # 187 
+City: slave lake id: 6149374 processed. # 188 
+City: namibe id: 3347019 processed. # 189 
+City: leningradskiy id: 2123814 processed. # 190 
+City: salamiyah id: 164947 processed. # 191 
+City: nanortalik id: 3421765 processed. # 192 
+City: bria id: 239899 processed. # 193 
+City: ostrovnoy id: 556268 processed. # 194 
+City: klamath falls id: 5735238 processed. # 195 
+City: faanui id: 4034551 processed. # 196 
+City: cabo san lucas id: 3985710 processed. # 197 
+City: daru id: 2409663 processed. # 198 
+City: tosya id: 738662 processed. # 199 
+City: ahipara id: 2194098 processed. # 200 
+City: colombia id: 3686120 processed. # 201 
+City: douglas id: 5293083 processed. # 202 
+City: yinchuan id: 1786657 processed. # 203 
+City: tokur id: 2015217 processed. # 204 
+City: tocopilla id: 3869716 processed. # 205 
+City: halkirk id: 5969452 processed. # 206 
+City: santiago id: 3871336 processed. # 207 
+City: butaritari id: 2110227 processed. # 208 
+City: bitung id: 1648636 processed. # 209 
+City: ulladulla id: 2145554 processed. # 210 
+City: trojes id: 783493 processed. # 211 
+City: luderitz id: 3355672 processed. # 212 
+City: fare id: 4034496 processed. # 213 
+City: erzin id: 296852 processed. # 214 
+City: iqaluit id: 5983720 processed. # 215 
+City: poum id: 787487 processed. # 216 
+City: roald id: 3141667 processed. # 217 
+City: kalmunai id: 1242110 processed. # 218 
+City: parnamirim id: 3392998 processed. # 219 
+Error code: 404 on call for city: marcona
+Message: city not found
+City: dehui id: 2037712 processed. # 220 
+City: tiksi id: 2015306 processed. # 221 
+City: candeias id: 3467796 processed. # 222 
+City: narsaq id: 3421719 processed. # 223 
+City: bela id: 1182998 processed. # 224 
+City: hithadhoo id: 1282256 processed. # 225 
+City: beringovskiy id: 2126710 processed. # 226 
+City: vila velha id: 6320062 processed. # 227 
+City: sitka id: 4267710 processed. # 228 
+City: pitimbu id: 3391889 processed. # 229 
+City: alyangula id: 2079582 processed. # 230 
+City: kokopo id: 2093685 processed. # 231 
+City: sur id: 286245 processed. # 232 
+City: natal id: 3394023 processed. # 233 
+City: winnemucca id: 5710360 processed. # 234 
+City: baracoa id: 3567834 processed. # 235 
+City: deniliquin id: 2169068 processed. # 236 
+City: yining id: 1786538 processed. # 237 
+City: denpasar id: 1645528 processed. # 238 
+City: george id: 2344082 processed. # 239 
+City: chokurdakh id: 2126123 processed. # 240 
+City: kuytun id: 2021093 processed. # 241 
+City: prince rupert id: 6113406 processed. # 242 
+City: langsa id: 1214724 processed. # 243 
+City: bilma id: 2446796 processed. # 244 
+City: mahon id: 2965139 processed. # 245 
+City: ilulissat id: 3423146 processed. # 246 
+City: tynda id: 2014718 processed. # 247 
+Error code: 404 on call for city: sakakah
+Message: city not found
+City: jaisinghnagar id: 1264542 processed. # 248 
+Error code: 404 on call for city: vaitupu
+Message: city not found
+City: srednekolymsk id: 2121025 processed. # 249 
+City: kieta id: 2094027 processed. # 250 
+City: chimore id: 3920736 processed. # 251 
+City: yakeshi id: 2033536 processed. # 252 
+City: kargil id: 1267776 processed. # 253 
+City: tucano id: 3445983 processed. # 254 
+City: piacabucu id: 3454005 processed. # 255 
+City: santa cruz id: 5393052 processed. # 256 
+City: mogadishu id: 53654 processed. # 257 
+City: takoradi id: 2294915 processed. # 258 
+City: goure id: 2444219 processed. # 259 
+City: yasnyy id: 552256 processed. # 260 
+City: kibala id: 2425791 processed. # 261 
+Error code: 404 on call for city: tawkar
+Message: city not found
+City: dunda id: 1253628 processed. # 262 
+City: wabana id: 6174727 processed. # 263 
+City: xingcheng id: 2033766 processed. # 264 
+City: banjar id: 1650233 processed. # 265 
+City: kaeo id: 2189343 processed. # 266 
+City: aklavik id: 5882953 processed. # 267 
+City: ancud id: 3899695 processed. # 268 
+City: tarauaca id: 3661980 processed. # 269 
+City: agadez id: 2448085 processed. # 270 
+City: broome id: 2656067 processed. # 271 
+City: gold coast id: 2165087 processed. # 272 
+City: abha id: 110690 processed. # 273 
+City: luxor id: 360502 processed. # 274 
+Error code: 404 on call for city: tabiauea
+Message: city not found
+City: pisco id: 3932145 processed. # 275 
+City: boulder id: 5574991 processed. # 276 
+City: atar id: 2381334 processed. # 277 
+City: morrope id: 3694586 processed. # 278 
+City: euskirchen id: 2928396 processed. # 279 
+City: sao joao da barra id: 3448903 processed. # 280 
+City: severodvinsk id: 496285 processed. # 281 
+City: nanjangud id: 1261910 processed. # 282 
+Error code: 404 on call for city: asau
+Message: city not found
+City: chhabra id: 1274381 processed. # 283 
+City: bahir dar id: 342884 processed. # 284 
+City: guerrero negro id: 4021858 processed. # 285 
+City: sharjah id: 292672 processed. # 286 
+City: ust-kuyga id: 2013921 processed. # 287 
+City: bhachau id: 1276370 processed. # 288 
+City: melnikovo id: 1499007 processed. # 289 
+Error code: 404 on call for city: bokspits
+Message: city not found
+City: asbe teferi id: 343402 processed. # 290 
+City: salalah id: 286621 processed. # 291 
+Error code: 404 on call for city: gilazi
+Message: city not found
+City: la ronge id: 6050066 processed. # 292 
+City: gat id: 2249901 processed. # 293 
+City: san andres id: 1690438 processed. # 294 
+City: juneau id: 5554072 processed. # 295 
+City: hami id: 1529484 processed. # 296 
+City: kavaje id: 3185211 processed. # 297 
+City: kresttsy id: 541116 processed. # 298 
+City: pevek id: 2122090 processed. # 299 
+City: inirida id: 3671450 processed. # 300 
+City: ust-omchug id: 2120047 processed. # 301 
+City: acapulco id: 3533462 processed. # 302 
+City: severnoye id: 496381 processed. # 303 
+Error code: 404 on call for city: yanchukan
+Message: city not found
+City: san vicente id: 3583178 processed. # 304 
+City: cedar city id: 5536630 processed. # 305 
+City: sobrance id: 723554 processed. # 306 
+City: te anau id: 2181625 processed. # 307 
+City: san jose id: 1689431 processed. # 308 
+City: qasigiannguit id: 3420768 processed. # 309 
+City: labuhan id: 1641899 processed. # 310 
+City: adrar id: 2508813 processed. # 311 
+Error code: 404 on call for city: qui nhon
+Message: city not found
+City: peniche id: 2264923 processed. # 312 
+City: naze id: 2337542 processed. # 313 
+City: grand-santi id: 3381538 processed. # 314 
+City: alofi id: 4036284 processed. # 315 
+City: hofn id: 2630299 processed. # 316 
+City: aksu id: 1524298 processed. # 317 
+City: whitehorse id: 6180550 processed. # 318 
+Error code: 404 on call for city: grand river south east
+Message: city not found
+City: novyy urengoy id: 1496511 processed. # 319 
+Error code: 404 on call for city: amderma
+Message: city not found
+City: ejido id: 3644417 processed. # 320 
+City: lauenburg id: 2880181 processed. # 321 
+City: gazojak id: 1514792 processed. # 322 
+City: grand gaube id: 934479 processed. # 323 
+City: keshod id: 1267227 processed. # 324 
+City: mubi id: 2329821 processed. # 325 
+City: araucaria id: 3471697 processed. # 326 
+City: shaki id: 2337765 processed. # 327 
+City: tigzirt id: 2504703 processed. # 328 
+City: estelle id: 4671240 processed. # 329 
+City: ewa beach id: 5855051 processed. # 330 
+City: kavaratti id: 1267390 processed. # 331 
+City: lazaro cardenas id: 3996234 processed. # 332 
+Error code: 404 on call for city: korla
+Message: city not found
+City: puerto rico id: 3429732 processed. # 333 
+City: santiago del estero id: 3835869 processed. # 334 
+City: camacha id: 2270385 processed. # 335 
+Error code: 404 on call for city: teul
+Message: city not found
+City: tabou id: 2281120 processed. # 336 
+City: san luis id: 3837056 processed. # 337 
+City: plettenberg bay id: 964712 processed. # 338 
+City: tarko-sale id: 1490085 processed. # 339 
+City: caravelas id: 3466980 processed. # 340 
+City: passy id: 2988393 processed. # 341 
+City: waipawa id: 2185329 processed. # 342 
+City: seymchan id: 2121373 processed. # 343 
+City: kabinda id: 215527 processed. # 344 
+City: castro id: 3896218 processed. # 345 
+City: iztapa id: 3595255 processed. # 346 
+City: pokaran id: 1259460 processed. # 347 
+City: paredon id: 3903987 processed. # 348 
+City: flinders id: 6255012 processed. # 349 
+City: muriwai beach id: 2186363 processed. # 350 
+City: harstad id: 6453319 processed. # 351 
+City: mayumba id: 2399001 processed. # 352 
+City: iwanai id: 2129868 processed. # 353 
+City: edd id: 338345 processed. # 354 
+City: dudinka id: 1507116 processed. # 355 
+Error code: 404 on call for city: rungata
+Message: city not found
+City: ardakan id: 143073 processed. # 356 
+City: guarapari id: 3461888 processed. # 357 
+City: painesville id: 5166009 processed. # 358 
+City: valle de juarez id: 3980614 processed. # 359 
+City: bathsheba id: 3374083 processed. # 360 
+City: sinjai id: 1626895 processed. # 361 
+City: glenwood springs id: 5423092 processed. # 362 
+City: araouane id: 2460954 processed. # 363 
+City: muroto id: 1856392 processed. # 364 
+City: tilichiki id: 2120591 processed. # 365 
+City: maicao id: 3675657 processed. # 366 
+Error code: 404 on call for city: haibowan
+Message: city not found
+City: jumla id: 1283285 processed. # 367 
+City: omboue id: 2396853 processed. # 368 
+City: requena id: 2511930 processed. # 369 
+Error code: 404 on call for city: tsihombe
+Message: city not found
+City: kyzyl id: 1500973 processed. # 370 
+City: presidente epitacio id: 3452331 processed. # 371 
+City: tautira id: 4033557 processed. # 372 
+City: kurkent id: 538739 processed. # 373 
+City: tura id: 1254046 processed. # 374 
+Error code: 404 on call for city: mutsamudu
+Message: city not found
+City: santa catalina id: 1688363 processed. # 375 
+City: chingirlau id: 610091 processed. # 376 
+City: kununurra id: 2068110 processed. # 377 
+City: port lincoln id: 2063036 processed. # 378 
+City: port macquarie id: 2152659 processed. # 379 
+City: ambon id: 3037899 processed. # 380 
+City: rocha id: 3440777 processed. # 381 
+City: eenhana id: 3357804 processed. # 382 
+City: saint-pierre id: 2995603 processed. # 383 
+City: saint george id: 262462 processed. # 384 
+City: portobelo id: 3702577 processed. # 385 
+City: maragogi id: 3395458 processed. # 386 
+City: alekseyevsk id: 2022083 processed. # 387 
+City: aripuana id: 3665202 processed. # 388 
+City: coquimbo id: 3893629 processed. # 389 
+City: kampong thum id: 1831125 processed. # 390 
+City: mayor pablo lagerenza id: 3867427 processed. # 391 
+City: nuuk id: 3421319 processed. # 392 
+Error code: 404 on call for city: tasbuget
+Message: city not found
+City: elko id: 5703670 processed. # 393 
+City: paamiut id: 3421193 processed. # 394 
+City: yulara id: 6355222 processed. # 395 
+City: hohhot id: 2036892 processed. # 396 
+City: beloha id: 1067565 processed. # 397 
+City: sochaczew id: 758682 processed. # 398 
+Error code: 404 on call for city: olafsvik
+Message: city not found
+City: kahului id: 5847411 processed. # 399 
+City: bintulu id: 1737486 processed. # 400 
+City: rognan id: 3141548 processed. # 401 
+City: ranong id: 1150965 processed. # 402 
+City: klaksvik id: 2618795 processed. # 403 
+Error code: 404 on call for city: barbar
+Message: city not found
+City: baykit id: 1510689 processed. # 404 
+City: puerto narino id: 3671387 processed. # 405 
+City: vao id: 588365 processed. # 406 
+City: hervey bay id: 2146219 processed. # 407 
+City: balad id: 1646170 processed. # 408 
+Error code: 404 on call for city: sorvag
+Message: city not found
+City: lavrentiya id: 4031637 processed. # 409 
+City: pundaguitan id: 1698289 processed. # 410 
+City: svirsk id: 2015842 processed. # 411 
+City: srbobran id: 3190169 processed. # 412 
+City: harper id: 4696310 processed. # 413 
+City: port augusta id: 2063056 processed. # 414 
+City: lagoa id: 2267254 processed. # 415 
+City: cambrils id: 3126888 processed. # 416 
+City: caibarien id: 3566356 processed. # 417 
+City: sisimiut id: 3419842 processed. # 418 
+City: kholm id: 549797 processed. # 419 
+City: filadelfia id: 3867291 processed. # 420 
+City: ixtapa id: 4004293 processed. # 421 
+City: longyearbyen id: 2729907 processed. # 422 
+City: husavik id: 5961417 processed. # 423 
+Error code: 404 on call for city: ruatoria
+Message: city not found
+City: yarim id: 69559 processed. # 424 
+Error code: 404 on call for city: acarau
+Message: city not found
+City: razdolinsk id: 1493756 processed. # 425 
+Error code: 404 on call for city: tumannyy
+Message: city not found
+City: jeremie id: 3723593 processed. # 426 
+City: evensk id: 2125693 processed. # 427 
+City: kirakira id: 2178753 processed. # 428 
+City: upernavik id: 3418910 processed. # 429 
+City: lensk id: 2020838 processed. # 430 
+Error code: 404 on call for city: linguere
+Message: city not found
+Error code: 404 on call for city: vysokaya gora
+Message: city not found
+City: farmington id: 5467328 processed. # 431 
+City: raudeberg id: 3146487 processed. # 432 
+City: le port id: 3036965 processed. # 433 
+City: sinnamary id: 3380290 processed. # 434 
+City: litein id: 189367 processed. # 435 
+City: visby id: 2662689 processed. # 436 
+City: haukipudas id: 658630 processed. # 437 
+Error code: 404 on call for city: stornoway
+Message: city not found
+City: cizre id: 318253 processed. # 438 
+City: dukat id: 786562 processed. # 439 
+City: okha id: 2122614 processed. # 440 
+City: gweru id: 890422 processed. # 441 
+City: havre-saint-pierre id: 5972291 processed. # 442 
+Error code: 404 on call for city: satitoa
+Message: city not found
+City: dinghai id: 1812805 processed. # 443 
+City: pacific grove id: 5380437 processed. # 444 
+City: puli id: 1671564 processed. # 445 
+City: pavlovsk id: 1495448 processed. # 446 
+City: fairbanks id: 5861897 processed. # 447 
+City: rio grande id: 3451138 processed. # 448 
+Error code: 404 on call for city: zlatoustovsk
+Message: city not found
+Error code: 404 on call for city: burica
+Message: city not found
+City: vanimo id: 2084442 processed. # 449 
+City: bhatapara id: 1276084 processed. # 450 
+City: umm lajj id: 100926 processed. # 451 
+Error code: 404 on call for city: crab hill
+Message: city not found
+City: norwich id: 2641181 processed. # 452 
+City: slavonice id: 3065818 processed. # 453 
+City: bestobe id: 1525376 processed. # 454 
+City: zastron id: 937246 processed. # 455 
+City: saint-augustin id: 3031582 processed. # 456 
+City: saldanha id: 2737599 processed. # 457 
+City: brownfield id: 5517675 processed. # 458 
+City: presidencia roque saenz pena id: 3840300 processed. # 459 
+City: hargeysa id: 57289 processed. # 460 
+City: marsa matruh id: 352733 processed. # 461 
+City: yenagoa id: 2318123 processed. # 462 
+City: prado id: 3452483 processed. # 463 
+City: kaseda id: 1859964 processed. # 464 
+City: manggar id: 1636426 processed. # 465 
+City: leh id: 1264976 processed. # 466 
+City: katangli id: 2122783 processed. # 467 
+City: joshimath id: 1268814 processed. # 468 
+City: la asuncion id: 3652350 processed. # 469 
+City: dekernes id: 358172 processed. # 470 
+City: panaba id: 3521972 processed. # 471 
+City: nome id: 4732862 processed. # 472 
+City: ukiah id: 5404476 processed. # 473 
+City: mikhaylovka id: 2015842 processed. # 474 
+City: cukai id: 1732945 processed. # 475 
+City: poronaysk id: 2121909 processed. # 476 
+City: ayagoz id: 1525988 processed. # 477 
+Error code: 404 on call for city: samusu
+Message: city not found
+City: dunedin id: 2191562 processed. # 478 
+City: black river id: 3491355 processed. # 479 
+City: murmashi id: 524299 processed. # 480 
+City: valparaiso id: 4927537 processed. # 481 
+City: argelia id: 3689613 processed. # 482 
+City: bafoulabe id: 2460755 processed. # 483 
+City: bumbuna id: 2409829 processed. # 484 
+Error code: 404 on call for city: krasnoselkup
+Message: city not found
+City: hay river id: 5972762 processed. # 485 
+City: vardo id: 4372777 processed. # 486 
+City: college id: 5859699 processed. # 487 
+City: katima mulilo id: 877178 processed. # 488 
+City: bad doberan id: 2953528 processed. # 489 
+City: mount isa id: 2065594 processed. # 490 
+City: bengbu id: 1816440 processed. # 491 
+Error code: 404 on call for city: ndele
+Message: city not found
+City: buzovna id: 586925 processed. # 492 
+City: port moresby id: 2088122 processed. # 493 
+City: ebeltoft id: 2622793 processed. # 494 
+City: shakopee id: 5046997 processed. # 495 
+Error code: 404 on call for city: loubomo
+Message: city not found
+City: katherine id: 2068655 processed. # 496 
+City: opuwo id: 3354077 processed. # 497 
+City: umm kaddadah id: 364933 processed. # 498 
+City: victor harbor id: 2059470 processed. # 499 
+City: lons-le-saunier id: 2997626 processed. # 500 
+City: ambilobe id: 1082243 processed. # 501 
+Error code: 404 on call for city: khonuu
+Message: city not found
+City: pochutla id: 3517970 processed. # 502 
+City: tateyama id: 1849876 processed. # 503 
+City: abonnema id: 2324433 processed. # 504 
+City: ust-nera id: 2120048 processed. # 505 
+City: lamar id: 5427957 processed. # 506 
+City: guanare id: 3640226 processed. # 507 
+City: sibu id: 1735902 processed. # 508 
+Error code: 404 on call for city: gurskoye
+Message: city not found
+City: talnakh id: 1490256 processed. # 509 
+City: dakoro id: 2446267 processed. # 510 
+City: conde id: 3465713 processed. # 511 
+Error code: 404 on call for city: sentyabrskiy
+Message: city not found
+City: oistins id: 3373652 processed. # 512 
+City: forbesganj id: 1271874 processed. # 513 
+City: ust-koksa id: 1488167 processed. # 514 
+City: tigil id: 2120612 processed. # 515 
+City: kangaatsiaq id: 3422683 processed. # 516 
+City: vagur id: 2610806 processed. # 517 
+Error code: 404 on call for city: bengkulu
+Message: city not found
+City: tando adam id: 1163967 processed. # 518 
+City: state college id: 5213681 processed. # 519 
+Error code: 404 on call for city: sumbawa
+Message: city not found
+City: gizo id: 6693679 processed. # 520 
+City: zhangye id: 1785036 processed. # 521 
+Error code: 404 on call for city: ngama
+Message: city not found
+City: moose factory id: 6078372 processed. # 522 
+City: urengoy id: 1488414 processed. # 523 
+City: yar-sale id: 1486321 processed. # 524 
+City: garden city id: 5118226 processed. # 525 
+City: mikkeli id: 646006 processed. # 526 
+City: ginir id: 336454 processed. # 527 
+City: khasan id: 2039557 processed. # 528 
+Error code: 404 on call for city: hunza
+Message: city not found
+City: canazas id: 3711668 processed. # 529 
+City: lasa id: 146639 processed. # 530 
+City: buala id: 2109528 processed. # 531 
+City: alta id: 847633 processed. # 532 
+City: inyonga id: 159134 processed. # 533 
+City: nizhneivkino id: 521123 processed. # 534 
+City: bermejo id: 3923154 processed. # 535 
+City: dosso id: 2445488 processed. # 536 
+City: torata id: 3927158 processed. # 537 
+City: saint-georges id: 6295855 processed. # 538 
+City: hobyo id: 57000 processed. # 539 
+City: tazovskiy id: 1489853 processed. # 540 
+City: shingu id: 1847947 processed. # 541 
+Error code: 404 on call for city: bur gabo
+Message: city not found
+City: mao id: 3496831 processed. # 542 
+City: vryheid id: 942470 processed. # 543 
+City: meulaboh id: 1214488 processed. # 544 
+Error code: 404 on call for city: himora
+Message: city not found
+City: rumonge id: 423549 processed. # 545 
+City: padang id: 1633419 processed. # 546 
+City: paka id: 3190586 processed. # 547 
+City: teya id: 3526662 processed. # 548 
+City: kankan id: 2419992 processed. # 549 
+City: westport id: 2960970 processed. # 550 
+City: cap malheureux id: 934649 processed. # 551 
+City: axim id: 2303611 processed. # 552 
+City: nemuro id: 2128975 processed. # 553 
+City: russell id: 3844421 processed. # 554 
+City: vilyuysk id: 2013392 processed. # 555 
+City: mala id: 3935572 processed. # 556 
+City: santa maria id: 3450083 processed. # 557 
+City: madoc id: 5907364 processed. # 558 
+City: jos id: 2335953 processed. # 559 
+City: weligama id: 1223738 processed. # 560 
+City: jasper id: 4069659 processed. # 561 
+City: rancho palos verdes id: 5386035 processed. # 562 
+City: borovskoy id: 1525121 processed. # 563 
+City: saint-joseph id: 3037456 processed. # 564 
+Error code: 404 on call for city: fevralsk
+Message: city not found
+City: anju id: 1879613 processed. # 565 
+City: ippy id: 238566 processed. # 566 
+City: san ignacio id: 3872175 processed. # 567 
+City: kibaya id: 202068 processed. # 568 
+Error code: 404 on call for city: marang
+Message: city not found
+City: anloga id: 2304548 processed. # 569 
+City: ossora id: 2122389 processed. # 570 
+City: komsomolskiy id: 1486910 processed. # 571 
+City: mirnyy id: 502265 processed. # 572 
+City: bose id: 6457397 processed. # 573 
+City: igunga id: 159386 processed. # 574 
+City: laa id: 2404614 processed. # 575 
+City: phangnga id: 1151464 processed. # 576 
+City: doha id: 290030 processed. # 577 
+City: viedma id: 3832899 processed. # 578 
+City: noshiro id: 2128867 processed. # 579 
+City: khash id: 1160571 processed. # 580 
+City: eravur id: 1250161 processed. # 581 
+Error code: 404 on call for city: kinanah
+Message: city not found
+City: saint anthony id: 5606187 processed. # 582 
+City: klyuchi id: 1503153 processed. # 583 
+Error code: 404 on call for city: svetlyy
+Message: city not found
+City: krasnyy chikoy id: 2012349 processed. # 584 
+Error code: 404 on call for city: ozgon
+Message: city not found
+City: port blair id: 1259385 processed. # 585 
+City: malanje id: 2239862 processed. # 586 
+City: pekan id: 1734971 processed. # 587 
